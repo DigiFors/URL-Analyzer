@@ -11,3 +11,5 @@ user-agent.
 Both user_agents.txt and the .py script have to be executed
 from the main Python folder. Keep in mind, the Results.csv will
 overwrite any pre-existing .csv with the same name in that directory.
+
+by HH and CK
