@@ -14,7 +14,7 @@ overwrite any pre-existing .csv with the same name in that directory.
 
 We recommend to use OpenOffice to open the .csv, since it wil ask
 you by default to change the delimiter to "," and thus to place 
-each output in a seperate field. Othwise you won't be able to see
+each output in a seperate field. Otherwise you won't be able to see
 all data or can't figure out in which column it belongs. 
 
 by HH and CK
